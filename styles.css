@@ -99,6 +99,11 @@ h1 {
     transform: scale(1.05);
 }
 
+#start-record-btn,
+#pause-record-btn {
+    background: #e67e22;
+}
+
 /* Notes List - Clean & Minimal */
 #notes {
     padding-top: 20px;
